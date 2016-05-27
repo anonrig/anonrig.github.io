@@ -83,3 +83,7 @@ footer {
 .footer-parallax-container {
   margin-top: -41px;
 }
+
+.dark-text {
+  color: black;
+}
