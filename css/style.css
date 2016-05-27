@@ -56,17 +56,6 @@ footer {
   opacity: 0.7;
 }
 
-.app-screenshot {
-  width: 264px;
-  position: relative;
-  right: 284px;
-  top: 1px;
-}
-
-.iphone-template {
-  width: 300px;
-}
-
 .yagiz-nizipli {
   padding-top: 0 !important;
   margin-top: 100px;
@@ -86,4 +75,31 @@ footer {
 
 .dark-text {
   color: black;
+}
+
+.slider-container {
+  position: absolute;
+  top: 170px;
+  left: 0;
+  right: 0;
+}
+
+.slider-phone-container {
+  position: absolute;
+  top: 125px;
+  left: 0;
+  right: 0;
+}
+
+.slider-phone-container img, .slider-container img {
+  height: 500px !important;
+}
+
+.contact-me-container {
+  margin-bottom: 50px;
+  margin-top: 50px;
+}
+
+.add-radius {
+  border-radius: 5px;
 }
