@@ -74,5 +74,12 @@ footer {
 
 .card-panel {
   margin-top: 50px !important;
-  margin-bottom: -30px !important;
+}
+
+.width-100 {
+  width: 100%;
+}
+
+.footer-parallax-container {
+  margin-top: -41px;
 }
