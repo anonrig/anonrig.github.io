@@ -88,13 +88,17 @@ footer {
 
 .slider-phone-container {
   position: absolute;
-  top: 125px;
   left: 0;
   right: 0;
+  bottom: -50px !important;
+  top: auto !important;
 }
 
 .slider-phone-container img, .slider-container img {
-  height: 500px !important;
+  background-size: contain !important;
+  background-position: top !important;
+  height: auto !important;
+  background-repeat: no-repeat !important;
 }
 
 .contact-me-container {
